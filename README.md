@@ -52,5 +52,7 @@ TypeScript: Ensures type safety and improves code maintainability.
 React Native SVG: Enables rendering of scalable vector graphics.
 React Native Vector Icons: Provides customizable icons for improved UI/UX.
 React Native QR Code: Generates QR codes for seamless external linking.
+
 License
+
 This project is licensed under the MIT License.
