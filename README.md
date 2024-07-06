@@ -1,58 +1,50 @@
-# Webmobi-Assignment
+# Welcome to your Expo app 👋
 
-"I developed an interface using React Native, utilizing a range of libraries and tools to enhance functionality and user experience. The project includes:
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-1: React Native: Utilized for building the core structure and components of the interface.
+## Get started
 
-2: Expo: Employed to streamline the development workflow, manage dependencies, and simplify the build process.
+1. Install dependencies
 
-3: TypeScript: Used for static type-checking, ensuring code quality and reducing potential runtime errors.
+   ```bash
+   npm install
+   ```
 
-4: React Native SVG: Implemented to render and manipulate scalable vector graphics within the application.
+2. Start the app
 
-5: React Native Vector Icons: Incorporated to add customizable icons, enhancing the visual appeal and usability of the interface.
+   ```bash
+    npx expo start
+   ```
 
-6: React Native QR Code: Used to generate a QR code, which when scanned, redirects users to nexalink.co.
+In the output, you'll find options to open the app in a
 
-7: Each of these tools and libraries played a crucial role in developing a robust and user-friendly interface, with the QR code functionality providing a seamless link to external resources."
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-To run the application locally:
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-1: Clone the repository:
+## Get a fresh project
 
-bash
-Copy code
+When you're ready, run:
 
-code : git clone https://github.com/AnujTiwari-Student/Webmobi-Assignment.git
+```bash
+npm run reset-project
+```
 
-1: Navigate into the project directory:
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-bash
-Copy code
+## Learn more
 
-code : cd your-repository
+To learn more about developing your project with Expo, look at the following resources:
 
-3: Install dependencies:
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-bash
-Copy code
+## Join the community
 
-code : npm install
+Join our community of developers creating universal apps.
 
-4: To start the application:
-
-bash
-Copy code
-
-code : npm start
-
-Additional Libraries and Tools Used
-Expo: Simplifies development, builds, and deployment processes.
-TypeScript: Ensures type safety and improves code maintainability.
-React Native SVG: Enables rendering of scalable vector graphics.
-React Native Vector Icons: Provides customizable icons for improved UI/UX.
-React Native QR Code: Generates QR codes for seamless external linking.
-
-License
-
-This project is licensed under the MIT License.
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
