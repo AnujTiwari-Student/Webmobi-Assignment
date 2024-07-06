@@ -1,5 +1,4 @@
 # Webmobi-Assignment
-Designed the user interface using React Native and added a QR code that redirects to nexalink.co.
 
 "Developed an interface using React Native, leveraging several libraries and tools to achieve the desired functionality. Used:
 
